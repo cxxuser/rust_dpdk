@@ -31,6 +31,7 @@ sudo dpdk-devbind.py --status
 运行DPDK自带的Helloworld程序
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/cf2dc2d3ecc445c183d339f04d82212f.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA6ZmI57ut5YW0,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 sudo cargo run运行Rust语言改写的DPDK应用程序
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b5e33bc9b7a94130809f4a349a773719.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA6ZmI57ut5YW0,size_20,color_FFFFFF,t_70,g_se,x_16)
